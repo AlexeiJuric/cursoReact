@@ -1,6 +1,6 @@
 import './App.css';
-import NavBar from 'components/NavBar'
-import ComponenteContenedor from './container/ComponenteContenedor';
+import NavBar from './components/NavBar/NavBar'
+import ComponenteContenedor from './components/container/ComponenteContenedor';
 function App() {
   return (
     <div className="App">
